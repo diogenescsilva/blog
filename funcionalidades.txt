@@ -1,0 +1,17 @@
+O projeto é um blog.
+
+As principais funcionalidades do painel de controle são:
+- Adicionar, alterar e remover categorias
+- Adicionar, alterar e remover usuários
+- Adicionar, alterar e remover posts
+
+As principais funcionalidades do front-end são:
+- Listar posts cadastrados
+- Visualizar um único pos
+- Listar posts por categoria
+
+* O painel de controle só é acessível por usuários cadastrados
+* Um usuário pode adicionar vários posts
+* Um post pode pertencer a uma categoria
+
+* O front-end é acessível sem login

@@ -1,0 +1,10 @@
+controllers/ (Controlllers do sistema)
+img/ (Imagens estáticas do layout, como ícones)
+js/ (Scripts estáticos do layout)
+media/ (Pasta para imagens upadas)
+modela/ (Modelos do sistema)
+templates/ (Partes reutilizáveis do layout)
+views/ (Visões do layout)
+ admin/ (Visões do painel de controle)
+  ...
+ ...
